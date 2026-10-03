@@ -1,0 +1,6 @@
+{
+  "name": "ECOBIN AI",
+  "description": "Scan. Recycle. Earn. Make an Impact. AI-powered smart recycling assistant for schools, youth, and communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
